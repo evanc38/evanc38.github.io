@@ -1,0 +1,3 @@
+[submodule "school-resume"]
+	path = school-resume
+	url = https://github.com/evanc38/school-resume.git
