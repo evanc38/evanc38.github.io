@@ -2,7 +2,7 @@
 Main repo
 
 # Process to add submodules:
-git add submodule <repo to add>
+git submodule add <repo to add>
 
 # Process to update submodules
 git submodule foreach git pull origin
