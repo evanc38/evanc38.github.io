@@ -1,9 +1,11 @@
 [submodule "school-resume"]
 	path = school-resume
 	url = https://github.com/evanc38/school-resume.git
+
 [submodule "assignment-05-wordle-evancherewko"]
 	path = assignment-05-wordle-evancherewko
 	url = https://github.com/evanc38/assignment-05-wordle-evancherewko
+	
 [submodule "fireworks"]
 	path = fireworks
 	url = https://github.com/evanc38/fireworks
